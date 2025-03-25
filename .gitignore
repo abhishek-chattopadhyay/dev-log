@@ -4,6 +4,7 @@
 .DS_Store
 .idea/
 *.swp
-
+*.txt
+*.sh
 # token
 .github_token
