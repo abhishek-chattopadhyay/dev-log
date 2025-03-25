@@ -1,10 +1,10 @@
 # Ignore any temporary or log files
-*.log
 *.tmp
 .DS_Store
 .idea/
 *.swp
 *.txt
 *.sh
+
 # token
 .github_token
