@@ -1,0 +1,9 @@
+# Ignore any temporary or log files
+*.log
+*.tmp
+.DS_Store
+.idea/
+*.swp
+
+# token
+.github_token
